@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-version= '3.0'
+version= '1'
 title = '''
 
       _ \        __ \  __ \               ___|           _)       |   
@@ -9,9 +9,9 @@ title = '''
     _|    \__, |____/ ____/ \___/ ____/ _____/ \___|_|   _| .__/ \__|  
            ____/                                            _|         
                                                                     
- DDos python script | Script used for testing ddos | Ddos attack     
- Author: ___T7hM1___                                                
- Github: http://github.com/t7hm1/pyddos                             
+ Simple Small Not Very Powerful Python DDoS Script For Educational Purposes Only.     
+ Author: Oppenheimer                                                
+ Github: http://github.com/Wackolmao/DDOS                             
  Version:'''+version+''' 
 '''
 
